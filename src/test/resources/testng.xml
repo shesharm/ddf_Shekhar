@@ -1,0 +1,11 @@
+<suite name="My Maven Project">
+<listeners>
+    <listener class-name="com.testing.mySampleProgram.CustomListener" />
+</listeners>
+  <suite-files>
+   <suite-file path="./Suite_ebay.xml" />
+   <suite-file path="./Suite_goIbibo.xml" />
+   <!-- suite-file path="./Suite_C.xml" / -->
+   
+  </suite-files>
+</suite>

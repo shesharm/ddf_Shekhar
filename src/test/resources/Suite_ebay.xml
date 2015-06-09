@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Ebay">
+
+
+
+
+<test name="Login Ebay">
+    <classes>
+        <class name="com.testing.mySampleProgram.ebay.TestLoginEbay" ></class>  
+        <class name="com.testing.mySampleProgram.ebay.Test_SearchBook" ></class>  
+    </classes>
+</test>
+
+
+
+
+
+</suite>
+
