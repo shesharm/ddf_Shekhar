@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite GoIbibo">
+
+
+
+<test name="Go Ibibo">
+    <classes>
+        <class name="com.testing.mySampleProgram.GoIbibo.TestGoIbibo" ></class>  
+    </classes>
+</test>
+
+
+
+</suite>
+
